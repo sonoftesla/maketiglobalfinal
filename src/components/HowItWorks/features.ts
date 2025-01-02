@@ -5,12 +5,12 @@ export const features: Feature[] = [
   {
     icon: ClipboardList,
     title: 'Manage Orders',
-    description: 'Start receiving orders from sellers and manage them in one centralized system.'
+    description: 'Centralize orders from omnichannel sources, and start the fuilfillment process.'
   },
   {
     icon: Settings,
     title: 'Automate Production',
-    description: 'Create and manage Standard Operating Procedures (SOPs) to ensure efficiency.'
+    description: 'Use custom Standard Operating Procedures (SOPs) to ensure efficiency.'
   },
   {
     icon: Package,
