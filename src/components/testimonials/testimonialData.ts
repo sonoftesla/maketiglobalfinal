@@ -17,7 +17,7 @@ export const testimonials: Testimonial[] = [
   },
   {
     quote: "The automated quality control checks have made a huge difference in ensuring the consistency of our products. Highly recommend!",
-    author: "Otieno M.",
+    author: "Patel M.",
     role: "Food manufacturer",
     location: "Kisumu",
     image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=200&h=200"
